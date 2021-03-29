@@ -1,0 +1,8 @@
+{
+  "name": "dmitriy/ipstackservice",
+  "autoload": {
+    "psr-4": {
+      "IpstackService\\dmitriy\\": "src/"
+    }
+  }
+}
