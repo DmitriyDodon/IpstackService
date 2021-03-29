@@ -2,7 +2,7 @@
 
 namespace IpstackService\dmitriy;
 
-use App\Service\Geo\GeoServiceInteface;
+use InterfaceGeo\dmitriy\GeoServiceInteface;
 use Illuminate\Support\Facades\Http;
 
 
