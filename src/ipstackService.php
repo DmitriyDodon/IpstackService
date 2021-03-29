@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Service\Geo\GeoServisec;
+namespace IpstackService\dmitriy;
 
 use App\Service\Geo\GeoServiceInteface;
 use Illuminate\Support\Facades\Http;
